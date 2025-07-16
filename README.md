@@ -60,11 +60,10 @@ Whether you're me-from-the-future trying to remember how something works, or a c
 - [Neal Ford — Granularity and Communication in Microservice Architectures](https://www.youtube.com/watch?v=L9UWy6oQBuY)
 
 ### Simon Brown (C4 Diagrams)
-
 - [Simon Brown - Software architecture as a contributor to high performing teams](https://www.youtube.com/watch?v=-nWY8Jq5mlA) 
-- [Simon Brown — The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc 
+- [Simon Brown — The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc) 
     ```
-    - Upfront design, quite when you can answer: 
+    - Upfront design, stop when you can answer: 
     - Understand architecture drivers (req, constraints) 
     - Know the context and scope of what building 
     - Understand the significant design decision  
